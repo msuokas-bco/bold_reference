@@ -6,5 +6,5 @@ Second part filters low quality data in multiple steps.
 
 Third part selects Arthoropod sequences and aligns them using guided alignment with LepiF1-LepiR1 CoI primers.
 
-After full worklow primer specific sequence and taxonomy files are creates as well as QIIME2 compatible trained naive bayesian taxonomy classifier.
+After full worklow primer specific sequence and taxonomy files are created as well as QIIME2 compatible trained naive bayesian taxonomy classifier.
 
